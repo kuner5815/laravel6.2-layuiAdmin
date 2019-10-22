@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## 配置
+
+1.下载：git clone git@github.com:kuner5815/laravel6.2-layuiAdmin.git laravel <br>
+2.composer install <br>
+3.复制.env.example   更名.env  并配置 数据库 <br>
+4.数据迁移：php artisan migrate <br>
+默认账号：admin  <br>
+默认密码：123456 <br>
+
+
+演示地址：http://39.100.116.66:88/
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
