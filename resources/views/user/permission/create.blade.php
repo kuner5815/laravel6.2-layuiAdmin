@@ -75,9 +75,6 @@
   <script type="text/javascript" src="{{asset('layuiadmin/layui/layui.js')}}"></script>
   @include('commons._layui_error')
   @include('commons._layui_messages')
-  <div id="icon_box" style="display: none;">
-  @include('user.permission.icon')
-  </div>
   <script>
   layui.config({
     base: '/layuiadmin/' //静态资源所在路径
