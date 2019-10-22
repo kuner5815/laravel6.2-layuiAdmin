@@ -17,7 +17,7 @@ layui.config({
 		  where: field
 		});
 	});
-  //var load = layer.load(3);
+  var load = layer.load(3);
   //表格获取数据
 	table.render({
 		elem:"#LAY-user-back-manage",
